@@ -1,0 +1,28 @@
+/*! CSS overrides for website */
+.bg-city-primary {
+	background-color: #1E2C32 !important;
+}
+
+.bg-city-secondary {
+	background-color: #C7D0F6 !important;
+}
+
+.bg-city-thirdondary {
+	background-color: #FFC4AC !important;
+}
+
+.city-primary {
+	color: #1E2C32 !important;
+}
+
+.city-secondary {
+	color: #C7D0F6 !important;
+}
+
+.city-thirdondary {
+	color: #FFC4AC !important;
+}
+
+.top-buffer {
+	margin-top: 250px !important; 
+}
