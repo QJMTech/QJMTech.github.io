@@ -3,7 +3,7 @@
 	background-color: #1E2C32 !important;
 }
 
-.bg-city-secondary {
+.bg-sky-lav {
 	background-color: #C7D0F6 !important;
 }
 
@@ -11,16 +11,24 @@
 	background-color: #DB9ECE !important;
 }
 
+.bg-blossom-pink {
+	background-color: #FBD3E9 !important;
+}
+
 .city-bottom {
 	color: #1E2C32 !important;
 }
 
-.city-secondary {
+.sky-lav {
 	color: #C7D0F6 !important;
 }
 
 .sidebar-purple {
 	color: #FFC4AC !important;
+}
+
+.leaf-green {
+	color: #3B5253 !important;
 }
 
 .top-buffer {
