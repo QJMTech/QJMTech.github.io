@@ -1,5 +1,5 @@
 /*! CSS overrides for website */
-.bg-city-primary {
+.bg-city-bottom {
 	background-color: #1E2C32 !important;
 }
 
@@ -7,11 +7,11 @@
 	background-color: #C7D0F6 !important;
 }
 
-.bg-city-thirdondary {
+.bg-sidebar-purple {
 	background-color: #DB9ECE !important;
 }
 
-.city-primary {
+.city-bottom {
 	color: #1E2C32 !important;
 }
 
@@ -19,10 +19,11 @@
 	color: #C7D0F6 !important;
 }
 
-.city-thirdondary {
+.sidebar-purple {
 	color: #FFC4AC !important;
 }
 
 .top-buffer {
 	margin-top: 250px !important; 
 }
+
